@@ -1,0 +1,13 @@
+C:\Users\LuckHaos\source\repos\MainForm\bin\Debug\MainForm.exe.config
+C:\Users\LuckHaos\source\repos\MainForm\bin\Debug\MainForm.exe
+C:\Users\LuckHaos\source\repos\MainForm\bin\Debug\MainForm.pdb
+C:\Users\LuckHaos\source\repos\MainForm\obj\Debug\MainForm.csproj.AssemblyReference.cache
+C:\Users\LuckHaos\source\repos\MainForm\obj\Debug\MainForm.Form1.resources
+C:\Users\LuckHaos\source\repos\MainForm\obj\Debug\MainForm.Properties.Resources.resources
+C:\Users\LuckHaos\source\repos\MainForm\obj\Debug\MainForm.csproj.GenerateResource.cache
+C:\Users\LuckHaos\source\repos\MainForm\obj\Debug\MainForm.csproj.CoreCompileInputs.cache
+C:\Users\LuckHaos\source\repos\MainForm\obj\Debug\MainForm.exe
+C:\Users\LuckHaos\source\repos\MainForm\obj\Debug\MainForm.pdb
+C:\Users\LuckHaos\source\repos\MainForm\bin\Debug\Nefarius.ViGEm.Client.dll
+C:\Users\LuckHaos\source\repos\MainForm\obj\Debug\MainForm.csproj.Up2Date
+C:\Users\LuckHaos\source\repos\MainForm\bin\Debug\Guna.UI2.dll
